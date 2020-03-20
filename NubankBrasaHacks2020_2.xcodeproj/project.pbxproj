@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3249AFF89CD2F2349989BC73 /* Pods_NubankBrasaHacks2020_2_NubankBrasaHacks2020_2UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E0C9DC38D10D3B3F95CA44AD /* Pods_NubankBrasaHacks2020_2_NubankBrasaHacks2020_2UITests.framework */; };
+		81B90EFFC532477C4482D9FC /* Pods_NubankBrasaHacks2020_2Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E93930929818BA989C20AA6F /* Pods_NubankBrasaHacks2020_2Tests.framework */; };
+		BF5EEE957B6BE62B5F343DE9 /* Pods_NubankBrasaHacks2020_2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE3F94DEA2A49E763589AE77 /* Pods_NubankBrasaHacks2020_2.framework */; };
 		E3B0CF2D2423849600C26FC3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B0CF2C2423849600C26FC3 /* AppDelegate.swift */; };
 		E3B0CF2F2423849600C26FC3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B0CF2E2423849600C26FC3 /* SceneDelegate.swift */; };
 		E3B0CF312423849600C26FC3 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B0CF302423849600C26FC3 /* FirstViewController.swift */; };
@@ -36,6 +39,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		19EC5F0DCC785F7D85D2ECF3 /* Pods-NubankBrasaHacks2020_2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NubankBrasaHacks2020_2.release.xcconfig"; path = "Target Support Files/Pods-NubankBrasaHacks2020_2/Pods-NubankBrasaHacks2020_2.release.xcconfig"; sourceTree = "<group>"; };
+		4A116924D883D16B55EE6860 /* Pods-NubankBrasaHacks2020_2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NubankBrasaHacks2020_2.debug.xcconfig"; path = "Target Support Files/Pods-NubankBrasaHacks2020_2/Pods-NubankBrasaHacks2020_2.debug.xcconfig"; sourceTree = "<group>"; };
+		91E94014E678EB326159B4A5 /* Pods-NubankBrasaHacks2020_2Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NubankBrasaHacks2020_2Tests.release.xcconfig"; path = "Target Support Files/Pods-NubankBrasaHacks2020_2Tests/Pods-NubankBrasaHacks2020_2Tests.release.xcconfig"; sourceTree = "<group>"; };
+		AE3F94DEA2A49E763589AE77 /* Pods_NubankBrasaHacks2020_2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NubankBrasaHacks2020_2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C348BABB871B9359E35B6218 /* Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests.release.xcconfig"; path = "Target Support Files/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests.release.xcconfig"; sourceTree = "<group>"; };
+		C8CA60BAA8B02C38C6FD4460 /* Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests.debug.xcconfig"; path = "Target Support Files/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		E0C9DC38D10D3B3F95CA44AD /* Pods_NubankBrasaHacks2020_2_NubankBrasaHacks2020_2UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NubankBrasaHacks2020_2_NubankBrasaHacks2020_2UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E294F4876C5CDE1BC270C931 /* Pods-NubankBrasaHacks2020_2Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NubankBrasaHacks2020_2Tests.debug.xcconfig"; path = "Target Support Files/Pods-NubankBrasaHacks2020_2Tests/Pods-NubankBrasaHacks2020_2Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E3B0CF292423849600C26FC3 /* NubankBrasaHacks2020_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NubankBrasaHacks2020_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3B0CF2C2423849600C26FC3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E3B0CF2E2423849600C26FC3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +62,7 @@
 		E3B0CF4C2423849700C26FC3 /* NubankBrasaHacks2020_2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NubankBrasaHacks2020_2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3B0CF502423849700C26FC3 /* NubankBrasaHacks2020_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NubankBrasaHacks2020_2UITests.swift; sourceTree = "<group>"; };
 		E3B0CF522423849700C26FC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E93930929818BA989C20AA6F /* Pods_NubankBrasaHacks2020_2Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NubankBrasaHacks2020_2Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF5EEE957B6BE62B5F343DE9 /* Pods_NubankBrasaHacks2020_2.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81B90EFFC532477C4482D9FC /* Pods_NubankBrasaHacks2020_2Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +86,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3249AFF89CD2F2349989BC73 /* Pods_NubankBrasaHacks2020_2_NubankBrasaHacks2020_2UITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6DB4207927B7852F0BB925E3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4A116924D883D16B55EE6860 /* Pods-NubankBrasaHacks2020_2.debug.xcconfig */,
+				19EC5F0DCC785F7D85D2ECF3 /* Pods-NubankBrasaHacks2020_2.release.xcconfig */,
+				C8CA60BAA8B02C38C6FD4460 /* Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests.debug.xcconfig */,
+				C348BABB871B9359E35B6218 /* Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests.release.xcconfig */,
+				E294F4876C5CDE1BC270C931 /* Pods-NubankBrasaHacks2020_2Tests.debug.xcconfig */,
+				91E94014E678EB326159B4A5 /* Pods-NubankBrasaHacks2020_2Tests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		93312FA928C3DBF6DE9857CB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AE3F94DEA2A49E763589AE77 /* Pods_NubankBrasaHacks2020_2.framework */,
+				E0C9DC38D10D3B3F95CA44AD /* Pods_NubankBrasaHacks2020_2_NubankBrasaHacks2020_2UITests.framework */,
+				E93930929818BA989C20AA6F /* Pods_NubankBrasaHacks2020_2Tests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		E3B0CF202423849600C26FC3 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +124,8 @@
 				E3B0CF442423849700C26FC3 /* NubankBrasaHacks2020_2Tests */,
 				E3B0CF4F2423849700C26FC3 /* NubankBrasaHacks2020_2UITests */,
 				E3B0CF2A2423849600C26FC3 /* Products */,
+				6DB4207927B7852F0BB925E3 /* Pods */,
+				93312FA928C3DBF6DE9857CB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -138,9 +179,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = E3B0CF552423849700C26FC3 /* Build configuration list for PBXNativeTarget "NubankBrasaHacks2020_2" */;
 			buildPhases = (
+				818CF7D9E52DF9C2EDF63F15 /* [CP] Check Pods Manifest.lock */,
 				E3B0CF252423849600C26FC3 /* Sources */,
 				E3B0CF262423849600C26FC3 /* Frameworks */,
 				E3B0CF272423849600C26FC3 /* Resources */,
+				89A37E2FB599B9C32F070BE3 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -155,6 +198,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = E3B0CF582423849700C26FC3 /* Build configuration list for PBXNativeTarget "NubankBrasaHacks2020_2Tests" */;
 			buildPhases = (
+				4348EC76CAD1BB9D9F6947E2 /* [CP] Check Pods Manifest.lock */,
 				E3B0CF3D2423849700C26FC3 /* Sources */,
 				E3B0CF3E2423849700C26FC3 /* Frameworks */,
 				E3B0CF3F2423849700C26FC3 /* Resources */,
@@ -173,9 +217,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = E3B0CF5B2423849700C26FC3 /* Build configuration list for PBXNativeTarget "NubankBrasaHacks2020_2UITests" */;
 			buildPhases = (
+				C52E62A1867D402DD673611F /* [CP] Check Pods Manifest.lock */,
 				E3B0CF482423849700C26FC3 /* Sources */,
 				E3B0CF492423849700C26FC3 /* Frameworks */,
 				E3B0CF4A2423849700C26FC3 /* Resources */,
+				16805D56FACA9C39EB89DD64 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -256,6 +302,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		16805D56FACA9C39EB89DD64 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4348EC76CAD1BB9D9F6947E2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NubankBrasaHacks2020_2Tests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		818CF7D9E52DF9C2EDF63F15 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NubankBrasaHacks2020_2-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		89A37E2FB599B9C32F070BE3 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NubankBrasaHacks2020_2/Pods-NubankBrasaHacks2020_2-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NubankBrasaHacks2020_2/Pods-NubankBrasaHacks2020_2-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NubankBrasaHacks2020_2/Pods-NubankBrasaHacks2020_2-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C52E62A1867D402DD673611F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		E3B0CF252423849600C26FC3 /* Sources */ = {
@@ -436,6 +585,7 @@
 		};
 		E3B0CF562423849700C26FC3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4A116924D883D16B55EE6860 /* Pods-NubankBrasaHacks2020_2.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -454,6 +604,7 @@
 		};
 		E3B0CF572423849700C26FC3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 19EC5F0DCC785F7D85D2ECF3 /* Pods-NubankBrasaHacks2020_2.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -472,6 +623,7 @@
 		};
 		E3B0CF592423849700C26FC3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E294F4876C5CDE1BC270C931 /* Pods-NubankBrasaHacks2020_2Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -494,6 +646,7 @@
 		};
 		E3B0CF5A2423849700C26FC3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 91E94014E678EB326159B4A5 /* Pods-NubankBrasaHacks2020_2Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -516,6 +669,7 @@
 		};
 		E3B0CF5C2423849700C26FC3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C8CA60BAA8B02C38C6FD4460 /* Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -536,6 +690,7 @@
 		};
 		E3B0CF5D2423849700C26FC3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C348BABB871B9359E35B6218 /* Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

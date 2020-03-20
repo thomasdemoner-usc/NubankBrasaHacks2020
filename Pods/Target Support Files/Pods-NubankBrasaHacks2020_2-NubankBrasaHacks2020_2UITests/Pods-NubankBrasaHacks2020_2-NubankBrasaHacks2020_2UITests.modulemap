@@ -1,0 +1,6 @@
+framework module Pods_NubankBrasaHacks2020_2_NubankBrasaHacks2020_2UITests {
+  umbrella header "Pods-NubankBrasaHacks2020_2-NubankBrasaHacks2020_2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
